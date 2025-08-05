@@ -7,8 +7,12 @@
 
 ---
 
-## 🚀 About Me
-I'm passionate about converting raw data into actionable insights to drive smarter decisions. With a strong foundation in Python, SQL, and BI tools like Power BI and Tableau, I’ve worked on real-world projects ranging from startup failure analysis to gesture-based communication tools.
+## 🚀 About Me  
+Data-driven and passionate about turning complex datasets into actionable insights.  
+Skilled in **Python**, **SQL**, **Power BI**, and **Tableau**, with project experience in **startup analytics**, **fraud detection**, and **gesture recognition**.  
+Actively seeking full-time opportunities as a **Data Analyst** to support data-driven decision-making.
+
+
 
 ---
 
