@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Rohith D!
 
 🎓 Recent AiML Graduate @ REVA University (2025)    
-📊 Aspiring Data Analyst | Python • SQL • Power BI • Excel • Tableau  
+📊 Aspiring Data Analyst | Python • SQL • Power BI
 📍 Bengaluru, India
 
 ---
@@ -11,11 +11,13 @@ I'm passionate about converting raw data into actionable insights to drive smart
 
 ---
 
-## 🔧 Tools & Technologies
-- **Languages**: Python, SQL, R, Java, C  
-- **Data/BI Tools**: Power BI, Tableau, Excel  
-- **Libraries/Frameworks**: Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, PyTorch  
-- **Other**: Git, GitHub, Linux
+### 🔧 Technical Skills
+
+- **Languages**: Python, R, SQL, C, Java  
+- **Tools**: Power BI, Tableau, Excel, Git, GitHub, Linux  
+- **Frameworks/Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, PyTorch  
+- **Domains**: Data Analysis, Data Visualization, Business Intelligence, Product Analytics, Data Cleaning, ETL
+
 
 ---
 
