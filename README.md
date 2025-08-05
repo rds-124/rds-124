@@ -33,11 +33,12 @@ I'm passionate about converting raw data into actionable insights to drive smart
 ### [📉 Indian Startup Failure Analysis](https://github.com/rds-124/Indian-Startup-Failure-Analysis) `Python • Power BI • Excel`
 > EDA using Python + Power BI to uncover patterns in failed Indian startups (sectors, funding, lifespan).
 
-### [💼 Power BI Dashboards](https://github.com/rds-124/PowerBI-Dashboards) `Power BI • DAX • Power Query`
-> Interactive dashboards for:
-- Supermarket Sales
-- HR Analytics
-- Startup Failure
+### [💼 Power BI Dashboards](https://github.com/rds-124/PowerBI-Dashboards) `Power BI • DAX • Power Query`  
+> Interactive dashboards for:  
+> - Supermarket Sales  
+> - HR Analytics  
+> - Startup Failure
+
 
 ### [💳 Fraud Detection](https://github.com/rds-124/Fraud-Detection) `Python • Scikit-learn • ML`
 > Built a machine learning model to detect fraudulent financial transactions.
