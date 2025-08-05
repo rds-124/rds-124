@@ -61,8 +61,7 @@ Actively seeking full-time opportunities as a **Data Analyst** to support data-d
 
 ## 📫 Let's Connect!
 - 📧 Email: rohithsd124@gmail.com  
-- 💼 [LinkedIn](https://linkedin.com/in/rohith124)  
-- 🗂️ [Resume](https://drive.google.com/file/d/1uBhehAgjZ5OdgHyaEpaZHTwKO1yyGHY9/view)  
+- 💼 LinkedIn: [Rohith D](https://linkedin.com/in/rohith124)  
 - 🧑‍💻 [GitHub](https://github.com/rds-124)
 
 ---
