@@ -1,5 +1,7 @@
 
+
 # 👋 Hi there, I'm Rohith D !
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4AD395&center=true&vCenter=true&width=500&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Turning+Data+into+Decisions)
 
 🎓 B.Tech in **Artificial Intelligence & Machine Learning** (2025) | REVA University   
 📊 Aspiring **Data Analyst** |  **Python • SQL • Power BI**  
@@ -107,6 +109,9 @@ Currently seeking a **full-time Data Analyst role** where I can help businesses 
 - 🧑‍💻 [GitHub](https://github.com/rds-124)
 
 ---
+---
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4AD395&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Let’s+connect+and+collaborate.🚀)
 
 
 *Thanks for visiting my profile! I'm always open to collaboration, feedback, or new opportunities. 🚀*
