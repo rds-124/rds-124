@@ -1,6 +1,7 @@
 
 
-# 👋 Hi there, I'm Rohith D !
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">  Hi there, I'm Rohith D !
+
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4AD395&center=true&vCenter=true&width=500&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Turning+Data+into+Decisions)
 
 🎓 B.Tech in **Artificial Intelligence & Machine Learning** (2025) | REVA University   
