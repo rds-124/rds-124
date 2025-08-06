@@ -1,8 +1,13 @@
 # 👋 Hi there, I'm Rohith D!
 
+
 🎓 Recent AiML Graduate @ REVA University (2025)  
-📊 Aspiring Data Analyst | Python • SQL • Power BI  
-📍 Bengaluru, India
+📊 Aspiring Data Analyst |
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57.svg?&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811.svg?&logo=powerbi&logoColor=black)  
+📍 Bengaluru, India  
+🗂️ [Resume](https://drive.google.com/file/d/1UaPZJgIkibq1w4u5oRPEKiqbnZLFZyT6/view?usp=drive_link)
 
 
 ---
