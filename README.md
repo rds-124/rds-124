@@ -110,9 +110,6 @@ Currently seeking a **full-time Data Analyst role** where I can help businesses 
 - 🧑‍💻 [GitHub](https://github.com/rds-124)
 
 ---
----
-
-
 
 *Thanks for visiting my profile! I'm always open to collaboration, feedback, or new opportunities. 🚀*
 
