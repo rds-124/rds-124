@@ -1,8 +1,8 @@
 
 # 👋 Rohith D
 
-🎓 B.Tech in Artificial Intelligence & Machine Learning (2025) | REVA University   
-📊 Aspiring Data Analyst |  Python • SQL • Power BI  
+🎓 B.Tech in **Artificial Intelligence & Machine Learning** (2025) | REVA University   
+📊 Aspiring **Data Analyst** |  **Python • SQL • Power BI**  
 📍 Bengaluru, India  
 [![Resume](https://img.shields.io/badge/Resume-View-blue?style=flat&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1UaPZJgIkibq1w4u5oRPEKiqbnZLFZyT6/view?usp=drive_link)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohith124)  
