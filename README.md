@@ -1,21 +1,23 @@
-# 👋 Hi there, I'm Rohith D!
 
+# 👋 Rohith D
 
-🎓 Recent AiML Graduate @ REVA University (2025)  
-📊 Aspiring Data Analyst |
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57.svg?&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811.svg?&logo=powerbi&logoColor=black)  
+🎓 B.Tech in Artificial Intelligence & Machine Learning (2025) | REVA University   
+📊 Aspiring Data Analyst | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=mysql&logoColor=white) ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)  
 📍 Bengaluru, India  
-🗂️ [Resume](https://drive.google.com/file/d/1UaPZJgIkibq1w4u5oRPEKiqbnZLFZyT6/view?usp=drive_link)
+[![Resume](https://img.shields.io/badge/Resume-View-blue?style=flat&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1UaPZJgIkibq1w4u5oRPEKiqbnZLFZyT6/view?usp=drive_link)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohith124)  
+
+
 
 
 ---
 
+
 ## 🚀 About Me  
-Data-driven and passionate about turning complex datasets into actionable insights.  
-Skilled in **Python**, **SQL**, **Power BI**, and **Tableau**, with project experience in **startup analytics**, **fraud detection**, and **gesture recognition**.  
-Actively seeking full-time opportunities as a **Data Analyst** to support data-driven decision-making.
+Passionate about turning complex data into clear, actionable insights.  
+Skilled in **Python**, **SQL**, **Power BI**, and **Tableau**, with hands-on experience in projects involving **startup failure analysis**, **fraud detection**, and **gesture recognition**.  
+Currently seeking a **full-time Data Analyst role** where I can help businesses make smarter, data-informed decisions.
+
 
 
 
