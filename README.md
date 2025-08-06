@@ -1,5 +1,5 @@
 
-# 👋 Rohith D
+# 👋 Hi there, I'm Rohith D !
 
 🎓 B.Tech in **Artificial Intelligence & Machine Learning** (2025) | REVA University   
 📊 Aspiring **Data Analyst** |  **Python • SQL • Power BI**  
