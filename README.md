@@ -63,26 +63,31 @@ Actively seeking full-time opportunities as a **Data Analyst** to support data-d
 
 ## 🗂️ Portfolio Projects
 
-### [🔍 ANPR-YOLOv8](https://github.com/rds-124/ANPR-YOLOv8) `YOLOv8 • OpenCV • Python`
+### [🔍 ANPR-YOLOv8](https://github.com/rds-124/ANPR-YOLOv8) ![YOLOv8](https://img.shields.io/badge/YOLOv8-343434.svg?&logo=github&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?&logo=opencv&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB.svg?&logo=python&logoColor=white) 
 > Real-time Automatic Number Plate Recognition using YOLOv8 for license plate detection and recognition.
 
-### [🧠 SIGNSPEAK](https://github.com/rds-124/SIGNSPEAK) `Python • MediaPipe • NLP`
+### [🧠 SIGNSPEAK](https://github.com/rds-124/SIGNSPEAK) ![Python](https://img.shields.io/badge/Python-3776AB.svg?&logo=python&logoColor=white) ![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6F00.svg?&style=flat&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-800080.svg?&style=flat&logoColor=white)
+
 > Sign Language to Speech & Text Translator using MediaPipe + NLP to improve accessibility.
 
-### [📊 Zomato Demand & Delivery Dashboard](https://github.com/rds-124/PowerBI-Dashboards) `Power BI • Python • DAX`
+### [📊 Zomato Demand & Delivery Dashboard](https://github.com/rds-124/PowerBI-Dashboards)  ![Python](https://img.shields.io/badge/Python-3776AB.svg?&logo=python&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811.svg?&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-005B9F.svg?&style=flat&logoColor=white)
+
 > Power BI dashboard analyzing 50K+ Zomato listings. Includes dynamic filters for cuisine, area, and cost.
 
-### [📉 Indian Startup Failure Analysis](https://github.com/rds-124/Indian-Startup-Failure-Analysis) `Python • Power BI • Excel`
+### [📉 Indian Startup Failure Analysis](https://github.com/rds-124/Indian-Startup-Failure-Analysis) ![Python](https://img.shields.io/badge/Python-3776AB.svg?&logo=python&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811.svg?&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346.svg?&logo=microsoft-excel&logoColor=white)
+
 > EDA using Python + Power BI to uncover patterns in failed Indian startups (sectors, funding, lifespan).
 
-### [💼 Power BI Dashboards](https://github.com/rds-124/PowerBI-Dashboards) `Power BI • DAX • Power Query`  
+### [💼 Power BI Dashboards](https://github.com/rds-124/PowerBI-Dashboards) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811.svg?&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-005B9F.svg?&style=flat&logoColor=white) ![Power Query](https://img.shields.io/badge/Power_Query-742774.svg?&style=flat&logoColor=white)
+  
 > Interactive dashboards for:  
 > - Supermarket Sales  
 > - HR Analytics  
 > - Startup Failure
 
 
-### [💳 Fraud Detection](https://github.com/rds-124/Fraud-Detection) `Python • Scikit-learn • ML`
+### [💳 Fraud Detection](https://github.com/rds-124/Fraud-Detection) ![Python](https://img.shields.io/badge/Python-3776AB.svg?&logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E.svg?&logo=scikit-learn&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-006400.svg?&style=flat&logoColor=white)
+
 > Built a machine learning model to detect fraudulent financial transactions.
 
 ---
