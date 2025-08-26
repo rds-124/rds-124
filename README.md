@@ -67,6 +67,11 @@ Currently seeking a **full-time Data Analyst role** where I can help businesses 
 
 ## 🗂️ Portfolio Projects
 
+### [🚀 My-Portfolio](https://github.com/rds-124/My-Portfolio) ![React](https://img.shields.io/badge/React-20232A.svg?&logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4.svg?&logo=tailwindcss&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF.svg?&logo=vite&logoColor=FFD62E)
+
+>A modern data analyst portfolio website showcasing my skills, projects, and certifications — built with React, TailwindCSS, and Vite.
+
+
 ### [🔍 ANPR-YOLOv8](https://github.com/rds-124/ANPR-YOLOv8) ![YOLOv8](https://img.shields.io/badge/YOLOv8-343434.svg?&logo=github&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?&logo=opencv&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB.svg?&logo=python&logoColor=white) 
 > Real-time Automatic Number Plate Recognition using YOLOv8 for license plate detection and recognition.
 
